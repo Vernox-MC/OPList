@@ -5,8 +5,6 @@ import java.io.File;
 
 import cn.nukkit.command.Command;
 import cn.nukkit.command.CommandSender;
-
-// Some Nukkit imports that we will use
 import java.io.FileNotFoundException;  
 import cn.nukkit.plugin.PluginBase;
 import cn.nukkit.utils.TextFormat;
@@ -14,11 +12,6 @@ import java.util.Scanner;
 public class Main extends PluginBase
 {
 
-  //Create config variable for later use
-
-
-
-  //onEnable method
 
  
 
@@ -29,8 +22,7 @@ public class Main extends PluginBase
 
   }
 
-  //onCommand method
-
+ 
 
   public boolean onCommand(CommandSender sender, Command cmd, String label, String[] args)
   {
