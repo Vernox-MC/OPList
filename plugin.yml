@@ -1,0 +1,13 @@
+name: OPList
+version: 1.0.0
+author: VernoxMC
+api: ["1.0.0"]
+main: VernoxMC.OPList.Main
+commands:
+  oplist:
+    description: Shows OP Players
+    usage: /oplist
+    permission: oplist.command
+permissions:
+  oplist.command:
+    default: op
