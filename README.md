@@ -1,8 +1,8 @@
 # OPList
 This is my first plugin in Nukkit!
 
-#Commands
+# Commands
 /oplist
 
-#Description
+# Description
 This will show all the opped players in your server
